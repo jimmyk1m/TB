@@ -31,10 +31,13 @@
 				<dict>
 					<key>DNSProtocol</key>
 					<string>HTTPS</string>
-					<key>ServerURLs</key>
-					<array>
-						<string>https://doh.pub/dns-query</string>
-					</array>
+					<key>ServerAddresses</key>
+                    <array>
+                        <string>1.12.12.21</string>
+                        <string>120.53.53.53</string>
+                    </array>
+                    <key>ServerURL</key>
+                    <string>https://doh.pub/dns-query</string>
 				</dict>
 			</dict>
 			<dict>
@@ -52,10 +55,12 @@
 				<dict>
 					<key>DNSProtocol</key>
 					<string>HTTPS</string>
-					<key>ServerURLs</key>
-					<array>
-						<string>https://jimmy.science/dns-query</string>
-					</array>
+                    <key>ServerAddresses</key>
+                    <array>
+                        <string>0.0.0.0</string>
+                    </array>
+                    <key>ServerURL</key>
+                    <string>https://jimmy.science/dns-query</string>
 					<key>SupplementalMatchDomains</key>
 			        <array>
 						<string>nvs.im.tencent.cn</string>
