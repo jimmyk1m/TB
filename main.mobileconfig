@@ -26,7 +26,7 @@
 				<key>PayloadUUID</key>
 				<string>a8864b9f-c0ff-cc95-64e6-837c2512767d</string>
 				<key>PayloadDisplayName</key>
-				<string>DNS Settings</string>
+				<string>Dnspod DoH Setting</string>
 				<key>DNSSettings</key>
 				<dict>
 					<key>DNSProtocol</key>
@@ -95,6 +95,7 @@
 		</array>
 	</dict>
 </plist>
+
 
 
 
