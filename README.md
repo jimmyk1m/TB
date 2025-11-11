@@ -5,7 +5,7 @@
     如有 未被过滤的地址/App 或 拒绝服务的App 请在Issue提出，看到后会尽快更新
   
 使用教程 - 中文版  
-- [点此](https://raw.githubusercontent.com/jimmyk1m/TB/refs/heads/main/main.mobileconfig) 下载主规则
+- [点此](https://cdn.jsdelivr.net/gh/jimmyk1m/TB/main.mobileconfig) 下载主规则
 - 找到描述文件管理菜单  
     - 打开"设置"  
     - 打开第三个大框第一行"通用"(齿轮图标)  
@@ -15,7 +15,7 @@
   
   
 Tutorial - Eng  
-- [Click](https://raw.githubusercontent.com/jimmyk1m/TB/refs/heads/main/main.mobileconfig) to Download Main Rule
+- [Click](https://cdn.jsdelivr.net/gh/jimmyk1m/TB/main.mobileconfig) to Download Main Rule
 - Find the Profile  
     - Open "Settings"  
     - Open "General"  
