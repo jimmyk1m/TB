@@ -36,7 +36,7 @@
 						<string>1.12.12.21</string>
 						<string>120.53.53.53</string>
 					</array>
-					<key>ServerURLs</key>
+					<key>ServerURL</key>
 					<array>
 						<string>https://doh.pub/dns-query</string>
 					</array>
@@ -72,9 +72,9 @@
 								<string>geetest.com</string>
 								<string>114dev.com</string>
 							</array>
-							<key>IPv4Addresses</key>
+							<key>ServerURLs</key>
 							<array>
-								<string>0.0.0.0</string>
+								<string>https://jimmy.science/dns-query</string>
 							</array>
 						</dict>
 					</array>
@@ -83,3 +83,4 @@
 		</array>
 	</dict>
 </plist>
+
