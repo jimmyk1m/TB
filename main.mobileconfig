@@ -57,10 +57,6 @@
 				<dict>
 					<key>DNSProtocol</key>
 					<string>HTTPS</string>
-					<key>ServerAddresses</key>
-					<array>
-						<string>0.0.0.0</string>
-					</array>
 					<key>ServerURLs</key>
 					<array>
 						<string>https://jimmy.science/dns-query</string>
@@ -78,7 +74,6 @@
 						<string>smsks1.cmpassport.com</string>
 						<string>verify.cmpassport.com</string>
 						<string>opencloud.wostore.cn</string>
-						<string>nishub1.10010.com</string>
 						<string>mdn.open.wo.cn</string>
 						<string>id.mail.wo.cn</string>
 						<string>mail.wo.cn</string>
@@ -99,6 +94,7 @@
 		</array>
 	</dict>
 </plist>
+
 
 
 
