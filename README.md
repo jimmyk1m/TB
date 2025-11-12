@@ -1,5 +1,7 @@
 # Tracking Blocker
 
+https://cdn.jsdelivr.net/gh/jimmyk1m/TB/test.mobileconfig
+
 ---------------------------------------  
 
 Latest Version: 2025/11/12
